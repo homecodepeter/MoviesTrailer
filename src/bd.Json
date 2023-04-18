@@ -1,0 +1,406 @@
+{
+    "results": [
+         {
+            "id": 0,
+            "title": "Black Adam",
+             "img": "https://cdn.mos.cms.futurecdn.net/EvbLw3shXVMqKtHGHzcMtQ.jpg",
+             "video": "https://www.youtube.com/embed/X0tOpBuYasI"
+         },
+         {
+            "id": 1,
+            "title": "Maverick",
+             "img": "https://i.ytimg.com/vi/_bmUTA3ld0M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcURCvZsz1O3v_9MVPG6MpYWSoxw",
+             "video": "https://www.youtube.com/embed/_bmUTA3ld0M"
+         },
+         {
+            "id": 2,
+            "title": "Luck",
+             "img": "https://i.pcmag.com/imagery/articles/05Oe7J7m9avKDAO7LbxpAfu-1.fit_lim.v1644354952.jpg",
+             "video": "https://www.youtube.com/embed/NJHipDJvRI4"
+         },
+         {
+            "id": 3,
+            "title": "OPERATION FORTUNE ",
+             "img": "https://i.ytimg.com/vi/DtrA2OgtZQ4/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/yOFa634JzGs"
+         },
+         {
+            "id": 4,
+            "title": "Crimes of the Future",
+             "img": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/05/crimes-of-the-future-feature.jpg",
+             "video": "https://www.youtube.com/embed/uI7fnrNhKSI?controls=0"
+         },
+         {
+            "id": 5,
+            "title": "The Wheel",
+             "img": "https://i2.wp.com/teaser-trailer.com/wp-content/uploads/The-Wheel-movie-poster.jpg?ssl=1",
+             "video": "https://www.youtube.com/embed/1CUUaftlpzk?controls=0"
+         },
+         {
+            "id": 6,
+            "title": "LAST SEEN ALIVE",
+             "img": "https://www.voicesfromthebalcony.com/wp-content/uploads/2022/06/Last-Seen-Alive-Horizontal.jpg",
+             "video": "https://www.youtube.com/embed/5Gutb4hc5r4?controls=0"
+         },
+         {
+            "id": 7,
+            "title": "TERMINATOR 7: End Of War ",
+             "img": "https://i.pinimg.com/originals/81/2e/38/812e38c7de41f99c3aebd64d98851f39.jpg",
+             "video": "https://www.youtube.com/embed/D09aGdEDK2U?controls=0"
+         },
+         {
+            "id": 8,
+            "title": "INFINITE Official Trailer ",
+             "img": "https://i.ytimg.com/vi/_WWEOCQGxSw/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/_WWEOCQGxSw?controls=0"
+         },
+         {
+            "id": 9,
+            "title": "BLACK SITE Official Trailer (2022)",
+             "img": "https://m.media-amazon.com/images/M/MV5BOWZiMjVmYTctYjlkOS00ZjNlLTgwN2ItMWU0MTQyYzFjMzc4XkEyXkFqcGdeQXVyMTM2ODg1ODU0._V1_.jpg",
+             "video": "https://www.youtube.com/embed/JiKIeZV5KfU?controls=0"
+         },
+         {
+            "id": 10,
+            "title": "BLACK PANTHER 2: Wakanda Forever (2022)",
+             "img": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/04/28/16511668805764.jpg",
+             "video": "https://www.youtube.com/embed/43ydk0lgDc8?controls=0"
+         },
+         {
+            "id": 11,
+            "title": "Spiderhead | Chris Hemsworth ",
+             "img": "https://i.ytimg.com/vi/BfsNfFoA0J0/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/BfsNfFoA0J0?controls=0"
+         },
+         {
+            "id": 12,
+            "title": "RAMY 2 Trailer (2020)",
+             "img": "https://i.ytimg.com/vi/HFxTlwzggfg/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/HFxTlwzggfg?controls=0"
+         },
+         {
+            "id": 13,
+            "title": "AVATAR 2 - NEW TRAILER (2022",
+             "img": "https://www.michigansportszone.com/wp-content/uploads/2022/04/Untitled-design-2022-04-30T105248.446.jpg",
+             "video": "https://www.youtube.com/embed/uPEV3uwOruE?controls=0"
+         },
+         {
+            "id": 14,
+            "title": "THE WOMAN KING Trailer (2022) ",
+             "img": "https://i.ytimg.com/vi/3RDaPV_rJ1Y/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/rcUBHgumNjs?controls=0"
+         },
+         {
+            "id": 15,
+            "title": "TRIGGER POINT Official Trailer (2022)",
+             "img": "https://i.ytimg.com/vi/KzMpGevFNLo/mqdefault.jpg",
+             "video": "https://www.youtube.com/embed/KzMpGevFNLo?controls=0"
+         },
+         {
+            "id": 16,
+            "title": "THE CELLAR Official Trailer (2022)",
+             "img": "https://i.ytimg.com/vi/ho2RExW2D_k/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/NAJuQVZ8MSk?controls=0"
+         },
+         {
+            "id": 18,
+            "title": "Halo The Series (2022)",
+             "img": "https://www.denofgeek.com/wp-content/uploads/2022/03/halo-tv-series.jpg?fit=1718%2C950",
+             "video": "https://www.youtube.com/embed/5KZ3MKraNKY?controls=0"
+         },
+         {
+            "id": 19,
+            "title": "INTERCEPTOR |",
+             "img": "https://www.themoviedb.org/t/p/original/nSI3RslMvXz8My6sK2dPWpyOsDG.jpg",
+             "video": "https://www.youtube.com/embed/OQSoII4Bj1o?controls=0"
+         },
+         {
+            "id": 20,
+            "title": "Keep Breathing ",
+             "img": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/06/ENUS_KPBR_4x5_Pre.jpg?ssl=1",
+             "video": "https://www.youtube.com/embed/pfhCEXLnQh8?controls=0"
+         },
+         {
+            "id": 21,
+            "title": "WHO IS SHE Movie Trailer",
+             "img": "https://i.ytimg.com/vi/HX8wlaLEeC8/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/y1ezRN5fcxU?controls=0"
+         },
+         {
+            "id": 22,
+            "title": "Light & Magic - Official Trailer",
+             "img": "https://moviecontentplus.com/wp-content/uploads/2022/07/light-magic-official-trailer-202.jpg",
+             "video": "https://www.youtube.com/embed/53BZV1GMXu8?controls=0"
+         },
+         {
+            "id": 23,
+            "title": "FilmSupply EditFest | 2022",
+             "img": "https://blog.filmsupply.com/wp-content/uploads/2022/06/Filmsupply-Editfest-30-day-editing-comp_01-1024x576.jpg",
+             "video": "https://www.youtube.com/embed/EDXWVvYA7wo?controls=0"
+         },
+         {
+            "id": 24,
+            "title": "Filmsupply Edit Fest 2022",
+             "img": "https://i.ytimg.com/vi/5TMLa14s70s/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/O-UkhQR61hg?controls=0"
+         },
+         {
+            "id": 25,
+            "title": "Beast | Official Trailer",
+             "img": "https://i.ytimg.com/vi/oQMc7Sq36mI/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/oQMc7Sq36mI?controls=0"
+         },
+         {
+            "id": 26,
+            "title": "TOP UPCOMING MOVIES 2021",
+             "img": "https://i.ytimg.com/vi/dCNADdUslu0/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/yqOHp8h-Emw?controls=0"
+         },
+         {
+            "id": 27,
+            "title": "UNCHARTED - Official Trailer (HD)",
+             "img": "https://i.ytimg.com/vi/JwC2zEaprLo/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/eHp3MbsCbMg?controls=0"
+         },
+         {
+            "id": 28,
+            "title": "NOPE | Final Trailer",
+             "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F06%2F09%2Fnope.jpg",
+             "video": "https://www.youtube.com/embed/HUgmq_8PlRY?controls=0"
+         },
+         {
+            "id": 29,
+            "title": "Ticket to Paradise | Official Trailer [HD]",
+             "img": "https://film-book.com/wp-content/uploads/2022/06/george-clooney-julia-roberts-ticket-to-paradise-01-700x400-1-700x400.jpg",
+             "video": "https://www.youtube.com/embed/hkP4tVTdsz8?controls=0"
+         },
+         {
+            "id": 30,
+            "title": "Hot Summer Nights | Official Trailer HD",
+             "img": "https://i.ytimg.com/vi/O5ROSS9ReUY/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/O5ROSS9ReUY?controls=0"
+         },
+         {
+            "id": 31,
+            "title": "OCCUPATION: Rainfall Official Trailer",
+             "img": "https://media.elcinema.com/uploads/_640x480_742aeafd1d27c33b6d21782c4745fb19b644d5cd5abc8c83e11efb444522d5ea.jpg",
+             "video": "https://www.youtube.com/embed/1p8PuCShE4M?controls=0"
+         },
+         {
+            "id": 32,
+            "title": "The Predator 2023 Trailer",
+             "img": "https://i.ytimg.com/vi/0d82u6EcF7w/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/xiFXDKQ7Syk?controls=0"
+         },
+         {
+            "id": 33,
+            "title": "AMSTERDAM Official Trailer (2022)",
+            "img": "https://moviecontentplus.com/wp-content/uploads/2022/07/amsterdam-official-trailer-2022.jpg",
+             "video": "https://www.youtube.com/embed/iUCzmFA_4Lo"
+         },
+         {
+            "id": 34,
+            "title": "SHAZAM 2: Trailer (2022)",
+            "img": "https://www.denofgeek.com/wp-content/uploads/2021/06/shazam-2-new-costumes-fury-of-the-gods.jpg",
+             "video": "https://www.youtube.com/embed/fyYXM8g-0lA"
+         },
+         {
+            "id": 35,
+            "title": "Willow | Official Teaser Trailer | Disney+",
+            "img": "https://sportshub.cbsistatic.com/i/2022/05/26/a09e1f87-a6c2-44c2-9929-869cca4e041e/willow-teaser-trailer.png",
+             "video": "https://www.youtube.com/embed/tbbveDpUZv4"
+         },
+         {
+            "id": 36,
+            "title": "The Sea Beast | Official Trailer",
+            "img": "https://i.ytimg.com/vi/P-E-IGQCsPo/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/P-E-IGQCsPo"
+         },
+         {
+            "id": 37,
+            "title": "Black Bird — Official Trailer",
+            "img": "https://i.ytimg.com/vi/aH1FOkJys3Y/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/aH1FOkJys3Y"
+         },
+         {
+            "id": 38,
+            "title": "CODE NAME BANSHEE Official Trailer (2022)",
+            "img": "https://i0.wp.com/naijasetmp3.com/wp-content/uploads/2022/07/1xYNeVDGKLJ.jpg",
+             "video": "https://www.youtube.com/embed/pbFqKhjWMM8"
+         },
+         {
+            "id": 39,
+            "title": "THIRTEEN LIVES Official Trailer (2022)",
+            "img": "https://cdn.pastemagazine.com/www/articles/2022/06/28/thirteen-lives-trailer-main.jpg",
+             "video": "https://www.youtube.com/embed/2e3xlY3L5e0"
+         },
+         {
+            "id": 40,
+            "title": "EMILY THE CRIMINAL Official Trailer (2022)",
+            "img": "https://i.ytimg.com/vi/aNhYCMz5Ojs/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/aNhYCMz5Ojs"
+         },
+         {
+            "id": 41,
+            "title": "SEE HOW THEY RUN | Official Trailer ",
+            "img": "https://www.disneyplusinformer.com/wp-content/uploads/2022/06/See-How-They-Run-Trailer.jpg",
+             "video": "https://www.youtube.com/embed/Q00qh7Ab6Mk"
+         },
+         {
+            "id": 42,
+            "title": "EMERGENCY DECLARATION Trailer",
+            "img": "https://i.ytimg.com/vi/ZHN9bN7PyLA/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/osELrWhy12A"
+         },
+         {
+            "id": 43,
+            "title": "Loot — Official Trailer | Apple TV+",
+            "img": "https://i.ytimg.com/vi/ktzAq7wjJgs/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/ktzAq7wjJgs"
+         },
+         {
+            "id": 44,
+            "title": "TERROR ON THE PRAIRIE Official Trailer (2022)",
+            "img": "https://i.ytimg.com/vi/ZRxOnc0j6hM/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/ZRxOnc0j6hM"
+         },
+         {
+            "id": 45,
+            "title": "The Man From Toronto Trailer (2022)",
+            "img": "https://i0.wp.com/happy2hub.org/wp-content/uploads/2022/06/The-Man-from-Toronto.jpg",
+             "video": "https://www.youtube.com/embed/urqy8DrcGBs"
+         },
+         {
+            "id": 46,
+            "title": "Tehran — Official Trailer | Apple TV+",
+            "img": "https://i.ytimg.com/vi/Hm_vHTy9IYA/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/Hm_vHTy9IYA"
+         },
+         {
+            "id": 47,
+            "title": "AWAKE | Official Trailer | Netflix",
+            "img": "https://i.ytimg.com/vi/2fuowcxdrYc/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/2fuowcxdrYc"
+         },
+         {
+            "id": 48,
+            "title": "HOUSE OF THE DRAGON Trailer (2022)",
+            "img": "https://i.ytimg.com/vi/Pd8Dr8uC530/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/7e5X0PNutQ4"
+         },
+         {
+            "id": 49,
+            "title": "Sweet Tooth | Teaser Trailer | Netflix",
+            "img": "https://i.ytimg.com/vi/GrBw0pbF11s/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/GrBw0pbF11s"
+         },
+         {
+            "id": 50,
+            "title": "TROLL | Official Teaser | Netflix",
+            "img": "https://i.ytimg.com/vi/u8XFIfjkm1s/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/u8XFIfjkm1s"
+         },
+         {
+            "id": 51,
+            "title": "LYLE, LYLE, CROCODILE – Official Teaser Trailer (HD)",
+            "img": "https://i.ytimg.com/vi/JUdzLnqsOTs/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/kSHecHtkXAc"
+         },
+         {
+            "id": 52,
+            "title": "The Umbrella Academy Season 3 | Official Trailer",
+            "img": "https://www.showbizjunkies.com/wp-content/uploads/2022/05/umbrella-academy-season-3-official-poster-480x600.jpg",
+             "video": "https://www.youtube.com/embed/hs6alRuY1UU"
+         },
+         {
+            "id": 53,
+            "title": "ECCO Official Trailer (2022)",
+            "img": "https://images.seattletimes.com/wp-content/uploads/2019/08/08052019_movie2_165742.jpg",
+             "video": "https://www.youtube.com/embed/oSZGn4ugq5U"
+         },
+         {
+            "id": 54,
+            "title": "UNPLUGGING Official Trailer (2022)",
+            "img": "https://resizing.flixster.com/v21B0vIL62yir5-ETSHynC9ZIeM=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/190/923/thumb_179B8283-D8A9-4264-8239-29EB6FEE9FA4.jpg",
+             "video": "https://www.youtube.com/embed/7O74DQka2uA"
+         },
+         {
+            "id": 55,
+            "title": "Man Vs Bee | Official Trailer",
+            "img": "https://i.ytimg.com/an/YQ1vN_91KO0/1962614768617620315_mq.jpg?v=62883a81",
+             "video": "https://www.youtube.com/embed/YQ1vN_91KO0"
+         },
+         {
+            "id": 56,
+            "title": "Snowpiercer | Official Trailer",
+            "img": "https://i.ytimg.com/vi/7lFMpmwn_hQ/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/lGcJL6TG5cA"
+         },
+         {
+            "id": 57,
+            "title": "BLASTED | Official Trailer",
+            "img": "https://i.ytimg.com/vi/R5546NL6gkE/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/R5546NL6gkE"
+         },
+         {
+            "id": 58,
+            "title": "Blue Miracle | Official Trailer",
+            "img": "https://i.ytimg.com/vi/pXHCBnT3d4k/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/pXHCBnT3d4k"
+         },
+         {
+            "id": 59,
+            "title": "SNIPER: THE WHITE RAVEN Official Trailer (2022)",
+            "img": "https://i.ytimg.com/vi/yVGqTUu2OX0/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/yVGqTUu2OX0"
+         },
+         {
+            "id": 60,
+            "title": "KIMI - Official Trailer - Warner Bros. UK & Ireland",
+            "img": "https://i.ytimg.com/vi/4j3KTCuqxhg/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/4j3KTCuqxhg"
+         },
+         {
+            "id": 61,
+            "title": "Glamour Girls | Official Trailer",
+            "img": "https://i.ytimg.com/vi/XnyuqAJ9_kI/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/XnyuqAJ9_k"
+         },
+         {
+            "id": 62,
+            "title": "1899 | Official Teaser",
+            "img": "https://i.ytimg.com/vi/_kbQAJR9YWQ/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/ulOOON_KYHs"
+         },
+         {
+            "id": 63,
+            "title": "How to Change Your Mind | Official Trailer",
+            "img": "https://i.ytimg.com/vi/X8LRb4jfZ9g/hqdefault.jpg",
+             "video": "https://www.youtube.com/embed/X8LRb4jfZ9g"
+         },
+         {
+            "id": 64,
+            "title": "The Wheel (2019) Trailer | David Arquette, Jackson Gallagher",
+            "img": "https://i.ytimg.com/vi/1CUUaftlpzk/hqdefault.jpg",
+             "video": "https://www.youtube.com/embed/1CUUaftlpzk"
+         },
+         {
+            "id": 65,
+            "title": "Trees of Peace | Official Trailer",
+            "img": "https://i0.wp.com/www.kudosloaded.com/wp-content/uploads/2022/06/movie-trees-of-peace-2022.jpg",
+             "video": "https://www.youtube.com/embed/4VuzxlHqTAs"
+         },
+         {
+            "id": 66,
+            "title": "Cha Cha Real Smooth — Official Trailer",
+            "img": "https://i.ytimg.com/vi/QRyyagJ9GPo/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/QRyyagJ9GPo"
+         },
+         {
+            "id": 67,
+            "title": "ARK 2 Official Trailer (2021) Vin Diesel",
+            "img": "https://i.ytimg.com/vi/ALTzkzMyI-Y/maxresdefault.jpg",
+             "video": "https://www.youtube.com/embed/ALTzkzMyI-Y"
+         }
+    ]
+}
